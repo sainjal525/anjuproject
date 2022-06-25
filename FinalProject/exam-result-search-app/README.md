@@ -1,9 +1,7 @@
-## BATCH-8:
-### Arvind Joshi
-### Raju Alugam
-### Rathina Mary L
-### Shyam Sunder Reddy Eresu
-### Vemula Hari
+## BATCH-3:
+### Anjali reddy saddi
+### charan mangala
+### Paramesh
 
 
 ## Step-1: to create a maven project:
